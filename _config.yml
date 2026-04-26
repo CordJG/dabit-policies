@@ -1,0 +1,18 @@
+title: Dabit Policies
+description: Dabit 이용약관 및 개인정보처리방침
+theme: jekyll-theme-cayman
+markdown: kramdown
+lang: ko-KR
+
+# SEO
+url: https://cordjg.github.io
+baseurl: /dabit-policies
+
+# Permalinks
+permalink: /:path:output_ext
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
